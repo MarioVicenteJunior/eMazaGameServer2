@@ -1,2 +1,2 @@
 # eMazaGameServer2
- Repositorio do servidor do aplicativo eMazaGame
+ Repositorio do projecto eMazaGame2
