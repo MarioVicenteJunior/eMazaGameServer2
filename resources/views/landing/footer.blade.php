@@ -12,7 +12,7 @@
                     </div>
                     <ul class="footer-links list-reset">
                         <li>
-                            <a href="https://explicador.co.mz/contacts">Contactos</a>
+                            <a href="https://explicador.co.mz/contact">Contactos</a>
                         </li>
                         <li>
                             <a href="https://explicador.co.mz/about">Sobre nos</a>
@@ -21,7 +21,7 @@
                             <a href="https://explicador.co.mz">eMazaGame</a>
                         </li>
                         <li>
-                            <a href="#">Entrar</a>
+                            <a href="/admin">Entrar</a>
                         </li>
                     </ul>
                     <ul class="footer-social-links list-reset">
