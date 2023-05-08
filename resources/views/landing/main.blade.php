@@ -11,7 +11,12 @@
                             </p>
 	                        <div class="hero-cta">
                                 <a class="button button-primary" href="#">Baixar app</a>
-                            <a class="button" href="/admin">Entrar</a></div>
+                                @if(auth()->check())
+                                    <a class="button" href="/admin/profile">Perfil</a>
+                                @else   
+                                    <a class="button" href="/admin">Entrar</a>
+                                @endif
+                            </div>
 						</div>
 						<div class="hero-figure anime-element">
 							<svg class="placeholder" width="528" height="396" viewBox="0 0 528 396">
